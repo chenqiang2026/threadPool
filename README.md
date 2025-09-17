@@ -5,10 +5,12 @@ threadPool implemented by C/C++
 大家可以关注对项目中的问题进行指正，可以优化的地方进行优化.
 如果有什么好的建议,欢迎大家提出来，一起把这个项目迭代的更加完善.
 
-
+// Linux环境实测
 编译这个项目
 
-1:新建build文件夹
+cd <project-folder>
+
+1:mkdir build
 
 2: cd build
 
