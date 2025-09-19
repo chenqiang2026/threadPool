@@ -22,7 +22,6 @@ cd <project-folder>
 
  ![alt text](image.png)
 
- ![alt text](image-1.png)
  
  执行成功
 
