@@ -25,5 +25,4 @@ cd <project-folder>
  ![alt text](image-1.png)
  
  执行成功
- 
-![alt text](image-2.png)
+
