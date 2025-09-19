@@ -16,8 +16,6 @@ cd <project-folder>
 
 3: cmake ..
 
- ![alt text](6a8e9a90-5e49-4181-832f-4b62dfcdf7ec.png)
-
 4:make 
 
  ![alt text](image.png)
